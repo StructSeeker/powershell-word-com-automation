@@ -16,6 +16,11 @@ paths:
   - "**/*.ps1"
   - "**/*.docx"
 effort: high
+tags:
+  - powershell
+  - COM automation
+  - Microsoft Word
+  - scripting
 user-invocable: true
 ---
 
