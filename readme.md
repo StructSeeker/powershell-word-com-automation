@@ -1,4 +1,4 @@
-# User Guide: Word Document Automation
+Word Document Automation
 
 This guide explains how to work with your AI agent to automate Microsoft Word documents. The automation runs through PowerShell COM interop — the agent writes and executes scripts that talk directly to a live Word instance on your machine. No add-ins, no macros, no dependencies.
 
