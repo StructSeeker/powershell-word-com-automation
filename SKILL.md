@@ -18,7 +18,8 @@ paths:
 effort: high
 tags:
   - powershell
-  - COM automation
+  - COM 
+  - automation
   - Microsoft Word
   - scripting
 user-invocable: true
