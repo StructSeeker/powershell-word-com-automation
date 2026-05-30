@@ -66,9 +66,7 @@ REPL (Read-Eval-Print Loop) is an interactive PowerShell session where the agent
 
 **How to ask for it:**
 
-> "Start a REPL session on my document so we can explore it together"
-
-> "Open an interactive session — I want to check the structure before making changes"
+> "Start a PowerShell Repl session and connect to the "<location>" word doucment"
 
 In REPL mode, the agent will ask you to run commands in a terminal and paste back any output it needs to see.
 
