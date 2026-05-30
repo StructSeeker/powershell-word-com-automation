@@ -12,11 +12,10 @@ The agent connects to Word by finding an **already-open document** on your files
 2. **You** tell the agent which file to work on and where it lives
 3. **The agent** connects to it, performs the operations, and saves
 
-Think of it like handing the agent the keys to a car that's already running — you still need to start it.
 
 ---
 
-## Before You Ask the Agent to Do Anything
+## Before Instructing the Agent
 
 ### 1. Open your document in Word
 
